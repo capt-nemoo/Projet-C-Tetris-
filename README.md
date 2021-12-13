@@ -7,3 +7,4 @@
 Pour executer ce programme, vous devrez tapper seuement "make" dans terminal etpuis "./Tetris". 
 
 
+# Projet-c
